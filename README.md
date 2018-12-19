@@ -28,5 +28,5 @@ Proyecto Final para el curso de robotica CSUNSA, robot carrito reconocedor de se
 
 ### 2. El grafico de entrenamiento
 
-
+![alt text](entrenamiento.png)
 
