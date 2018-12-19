@@ -1,8 +1,10 @@
 # Robotica-Proyecto-Final
 lego robot movil con cnn para reconocer señales de trafico
 
+Proyecto Final para el curso de robotica CSUNSA, robot carrito reconocedor de señales de transito usando CNN
 
-### 2. My final model consists of the following layers:
+
+### 1. El modelo utilizado consiste en las siguientes capas:
 
 | Layer No. | Layer  		|     Description	        					| 
 |:-:|:----------------:|:----------------------------:| 
@@ -23,3 +25,9 @@ lego robot movil con cnn para reconocer señales de trafico
 |   | RELU             |      Activation      |
 |	6 | Fully connected		|	outputs 43											|
  
+
+
+### 1. El grafico de entrenamiento
+
+
+
