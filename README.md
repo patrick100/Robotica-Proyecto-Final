@@ -27,6 +27,7 @@ Proyecto Final para el curso de robotica CSUNSA, robot carrito reconocedor de se
 
 
 ### 2. El grafico de entrenamiento
+Para realizar el entrenamiento utilizar TRAIN.py
 
 Grafico de entrenamiento usando 4 epocas
 
@@ -38,8 +39,6 @@ convirtiendo la imagen en grises
 
 ### 3. Para realizar una prediccion
 
-Para realizar una prediccion usasr CNN-ENTRENADA.py que convertira a
-gris la imagen y predicira la imagen con el modelo ya cargado
-
-de igual forma
-convertira a escala de grises
+Para realizar una prediccion usar CNN-ENTRENADA.py que convertira a
+gris la imagen y predicira la imagen con el modelo ya cargado de igual 
+forma convertira a escala de grises
