@@ -42,3 +42,5 @@ convirtiendo la imagen en grises
 Para realizar una prediccion usar CNN-ENTRENADA.py que convertira a
 gris la imagen y predicira la imagen con el modelo ya cargado de igual 
 forma convertira a escala de grises
+
+![alt text](/new_test_images/imagen.png)
