@@ -55,3 +55,5 @@ el protocolo samba.
 
 La comunicación tiene el siguiente diagrama de flujo
 
+![alt text](diagrama.png)
+
