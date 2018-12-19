@@ -29,7 +29,7 @@ Proyecto Final para el curso de robotica CSUNSA, robot carrito reconocedor de se
 ### 2. El grafico de entrenamiento
 Para realizar el entrenamiento utilizar TRAIN.py
 
-Grafico de entrenamiento usando 4 epocas
+Grafico de entrenamiento usando 20 epocas
 
 Antes de realizar el entrenamiento se hace un preprocesamiento
 convirtiendo la imagen en grises
