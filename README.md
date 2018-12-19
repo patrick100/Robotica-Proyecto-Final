@@ -1,5 +1,4 @@
 # Robotica-Proyecto-Final
-lego robot movil con cnn para reconocer señales de trafico
 
 Proyecto Final para el curso de robotica CSUNSA, robot carrito reconocedor de señales de transito usando CNN
 
@@ -27,7 +26,7 @@ Proyecto Final para el curso de robotica CSUNSA, robot carrito reconocedor de se
  
 
 
-### 1. El grafico de entrenamiento
+### 2. El grafico de entrenamiento
 
 
 
