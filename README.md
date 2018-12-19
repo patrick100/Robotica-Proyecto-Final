@@ -44,3 +44,14 @@ gris la imagen y predicira la imagen con el modelo ya cargado de igual
 forma convertira a escala de grises
 
 ![alt text](new_test_images/imagen.jpg)
+
+
+### 4. Para realizar la comunicacion entre el robot,camara(celular),laptop
+
+Para realizar la comunicacion entre los diferentes hosts se utilizo sockets 
+
+Para realizar el guardado de la imagen del celular a la laptop se utilizo 
+el protocolo samba.
+
+La comunicación tiene el siguiente diagrama de flujo
+
